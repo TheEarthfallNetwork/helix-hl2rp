@@ -93,16 +93,6 @@ function Schema:RenderScreenspaceEffects()
 	end
 
 	DrawColorModify(colorModify)
-
-	if (LocalPlayer():IsCombine()) then
-		render.UpdateScreenEffectTexture()
-
-		combineOverlay:SetFloat("$alpha", 0.5)
-		combineOverlay:SetInt("$ignorez", 1)
-
-		render.SetMaterial(combineOverlay)
-		render.DrawScreenQuad()
-	end
 end
 
 function Schema:PreDrawOpaqueRenderables()
