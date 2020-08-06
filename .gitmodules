@@ -12,7 +12,7 @@
 	url = https://github.com/TheEarthfallNetwork/citizen-clothing.git
 [submodule "plugins/advanced-identifications"]
 	path = plugins/advanced-identifications
-	url = https://github.com/TheEarthfallNetwork/advanced-identifications.git
+	url = git@github.com:TheEarthfallNetwork/advanced-identifications.git
 [submodule "plugins/civil-protection-authority-animations"]
 	path = plugins/civil-protection-authority-animations
 	url = https://github.com/TheEarthfallNetwork/civil-protection-authority-animations.git
