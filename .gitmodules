@@ -10,9 +10,6 @@
 [submodule "plugins/citizen-clothing"]
 	path = plugins/citizen-clothing
 	url = git@github.com:TheEarthfallNetwork/citizen-clothing.git
-[submodule "plugins/advanced-identifications"]
-	path = plugins/advanced-identifications
-	url = git@github.com:TheEarthfallNetwork/advanced-identifications.git
 [submodule "plugins/civil-protection-authority-animations"]
 	path = plugins/civil-protection-authority-animations
 	url = git@github.com:TheEarthfallNetwork/civil-protection-authority-animations.git
