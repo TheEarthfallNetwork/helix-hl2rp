@@ -16,3 +16,6 @@
 [submodule "plugins/advanced-identifications"]
 	path = plugins/advanced-identifications
 	url = git@github.com:TheEarthfallNetwork/advanced-identifications.git
+[submodule "plugins/citizen-model-overrides"]
+	path = plugins/citizen-model-overrides
+	url = git@github.com:TheEarthfallNetwork/citizen-model-overrides.git

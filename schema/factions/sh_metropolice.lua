@@ -1,4 +1,3 @@
-
 FACTION.name = "Civil Protection Authority"
 FACTION.description = "A Civil Protection unit working under the Civil Protection Authority."
 FACTION.color = Color(50, 100, 150)
